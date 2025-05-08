@@ -7,13 +7,13 @@ This guide walks you through setting up a machine to host Redash using Docker an
 
 ## 🖥️ Machine Requirements
 
-| Component         | Minimum                    | Recommended for Production |
-|------------------|----------------------------|-----------------------------|
-| **CPU**          | 2 cores                    | 4 cores or more             |
-| **Memory (RAM)** | 4 GB                       | 8 GB or more                |
-| **Disk**         | 20 GB SSD                  | 50 GB SSD (expandable)      |
-| **OS**           | Ubuntu 20.04 / 22.04 LTS   | Ubuntu 22.04 LTS            |
-| **Network**      | Internet access required   | Static IP recommended       |
+| Component         | Minimum                    
+|------------------|----------------------------|
+| **CPU**          | 2 cores                    |
+| **Memory (RAM)** | 4 GB                       |
+| **Disk**         | 20 GB SSD                  | 
+| **OS**           | Ubuntu 20.04 / 22.04 LTS   |
+| **Network**      | Internet access required   | 
 
 ---
 
